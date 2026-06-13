@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-brand-bg: #f5f7fb;
+  --color-brand-white: #ffffff;
+  --color-brand-text: #111111;
+  --color-brand-text-secondary: #5f6368;
+  --color-brand-primary: #2563eb;
+  --color-brand-secondary: #60a5fa;
+  --color-brand-border: #e5e7eb;
+  --color-brand-hover: #1d4ed8;
+  --color-brand-footer: #0f172a;
+  --color-brand-footer-text: #f8fafc;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-bg text-brand-text font-sans antialiased;
+  }
+}
+
+.shadow-soft {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.shadow-premium {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.04), 0 4px 6px -2px rgba(0, 0, 0, 0.02);
+}
+
+.shadow-2xl {
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
+}

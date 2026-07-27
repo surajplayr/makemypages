@@ -16,7 +16,7 @@ const Process = () => {
       title: 'UI/UX & Web Design',
       desc: 'Our creative team designs custom wireframes and interactive prototypes.',
       icon: Layout,
-      image: '/src/assets/images/website_dev_visual_1784956545081.jpg',
+      image: '/website_dev_visual_1784956545081.jpg',
       badge: 'Visual Design'
     },
     {
@@ -24,7 +24,7 @@ const Process = () => {
       title: 'CMS & Code Development',
       desc: 'We engineer high-performance websites and automated workflows.',
       icon: Code2,
-      image: '/src/assets/images/ai_automation_visual_1784956611081.jpg',
+      image: '/ai_automation_visual_1784956611081.jpg',
       badge: 'Build & Automate'
     },
     {

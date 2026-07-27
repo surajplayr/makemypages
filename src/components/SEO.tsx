@@ -25,7 +25,7 @@ export default function SEO({
   title,
   description = DEFAULT_DESCRIPTION,
   keywords = DEFAULT_KEYWORDS,
-  image = '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+  image = '/cms_website_dev_showcase_1784958542497.jpg',
   url,
   type = 'website'
 }: SEOProps) {

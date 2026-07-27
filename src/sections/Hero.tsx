@@ -74,7 +74,7 @@ const Hero = () => {
 
                 {/* Real Visual Asset Image */}
                 <img 
-                  src="/src/assets/images/hero_digital_agency_1784956531972.jpg" 
+                  src="/hero_digital_agency_1784956531972.jpg" 
                   alt="MakeMyPages Digital Agency Studio" 
                   className="w-full h-full object-cover pt-9 transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"

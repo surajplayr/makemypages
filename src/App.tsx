@@ -10,6 +10,7 @@ import Home from './pages/Home';
 import Admin from './pages/Admin';
 import ServiceDetail from './pages/ServiceDetail';
 import { motion, AnimatePresence } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   return (
@@ -26,6 +27,7 @@ export default function App() {
           </AnimatePresence>
         </main>
         <Footer />
+        <Analytics />
       </div>
     </Router>
   );

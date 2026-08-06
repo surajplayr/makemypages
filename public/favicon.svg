@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mmp-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="mmp-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93c5fd" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+    <filter id="mmp-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#0f172a" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- Outer Rounded Container with subtle brand glow -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0f172a" />
+
+  <g transform="translate(12, 12)">
+    <!-- Top 3D Edge -->
+    <path d="M 6 4 L 38 4 L 32 10 L 0 10 Z" fill="url(#mmp-cyan-grad)" opacity="0.9" />
+    
+    <!-- Right 3D Edge -->
+    <path d="M 38 4 L 38 36 L 32 42 L 32 10 Z" fill="url(#mmp-blue-grad)" opacity="0.85" />
+
+    <!-- Main Front Face Box -->
+    <rect x="0" y="10" width="32" height="32" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2.5" filter="url(#mmp-shadow)" />
+
+    <!-- Sharp Letter 'M' in Center -->
+    <path d="M 6 34 V 18 L 16 27 L 26 18 V 34 H 21 V 24 L 16 29 L 11 24 V 34 Z" fill="#0f172a" />
+  </g>
+</svg>

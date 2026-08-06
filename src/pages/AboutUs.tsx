@@ -71,13 +71,13 @@ export default function AboutUs() {
     {
       name: 'Media & Production Specialists',
       role: 'Photography, Video & Design',
-      image: '/src/assets/images/videography_gimbal_studio_1784958188066.jpg',
+      image: '/images/videography_gimbal_studio_1784958188066.jpg',
       description: 'Visual artists dedicated to capturing stunning 4K video, crisp product photography, and high-engagement social media visual assets.'
     },
     {
       name: 'Growth & Automation Engineers',
       role: 'SEO & Workflow Automation',
-      image: '/src/assets/images/ai_automation_visual_1784956611081.jpg',
+      image: '/images/ai_automation_visual_1784956611081.jpg',
       description: 'Data strategists focused on scaling search engine visibility, automating lead qualification, and engineering seamless CRM integrations.'
     }
   ];
@@ -193,7 +193,7 @@ export default function AboutUs() {
             <FadeIn className="relative">
               <div className="relative rounded-3xl overflow-hidden border border-brand-border shadow-premium group">
                 <img 
-                  src="/src/assets/images/cms_website_dev_showcase_1784958542497.jpg" 
+                  src="/images/cms_website_dev_showcase_1784958542497.jpg" 
                   alt="MakeMyPages Digital Web Agency Studio" 
                   className="w-full aspect-[4/3] object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

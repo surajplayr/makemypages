@@ -64,32 +64,32 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹10,000 – ₹25,000',
     shortDescription: 'We specialize in CMS WEBSITES, along with custom high-performance applications.',
     fullDescription: 'We specialize in CMS WEBSITES as well as building high-performance, scalable web applications using the latest technologies. Our development process ensures your site is fast, secure, and provides an exceptional user experience on all devices.',
-    visualImage: '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+    visualImage: '/images/cms_website_dev_showcase_1784958542497.jpg',
     categoryGroup: 'web-cms',
     visualBadge: 'CMS & Web Development',
     studioGallery: [
       {
         title: 'WordPress & CMS Custom Dashboard',
         category: 'CMS Web Builder',
-        image: '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+        image: '/images/cms_website_dev_showcase_1784958542497.jpg',
         description: 'Drag-and-drop content editor with custom post types, easy menu management, and instant publishing.'
       },
       {
         title: 'Responsive Multi-Device UI Design',
         category: 'Responsive Design',
-        image: '/src/assets/images/responsive_web_design_mockup_1784958556263.jpg',
+        image: '/images/responsive_web_design_mockup_1784958556263.jpg',
         description: 'Seamless desktop, tablet, and smartphone display layout crafted with Tailwind CSS and React.'
       },
       {
         title: 'Modern E-Commerce Storefront UI',
         category: 'Shopify / WooCommerce',
-        image: '/src/assets/images/website_dev_visual_1784956545081.jpg',
+        image: '/images/website_dev_visual_1784956545081.jpg',
         description: 'Fast product checkout pages, integrated payment gateways, and inventory management.'
       },
       {
         title: 'Lighthouse 99+ Speed & SEO Architecture',
         category: 'Performance',
-        image: '/src/assets/images/hero_digital_agency_1784956531972.jpg',
+        image: '/images/hero_digital_agency_1784956531972.jpg',
         description: 'Core Web Vitals optimized with under 1s page load speeds, clean metadata, and PWA support.'
       }
     ],
@@ -189,20 +189,20 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹12,000',
     shortDescription: 'Modern, minimal UI/UX revamps focused on user engagement and conversion.',
     fullDescription: 'Our design and redesign philosophy combines aesthetics with functionality. We modernize outdated interfaces, optimizing pages to tell your brand story and guide users toward conversion with absolute clarity.',
-    visualImage: '/src/assets/images/responsive_web_design_mockup_1784958556263.jpg',
+    visualImage: '/images/responsive_web_design_mockup_1784958556263.jpg',
     categoryGroup: 'web-cms',
     visualBadge: 'UI/UX Redesign',
     studioGallery: [
       {
         title: 'Modern UI/UX Web Redesign Preview',
         category: 'UI/UX Revamp',
-        image: '/src/assets/images/responsive_web_design_mockup_1784958556263.jpg',
+        image: '/images/responsive_web_design_mockup_1784958556263.jpg',
         description: 'Before/after layout modernization with high-contrast typography and fluid grid layouts.'
       },
       {
         title: 'CMS Dashboard & Admin Panel',
         category: 'CMS Revamp',
-        image: '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+        image: '/images/cms_website_dev_showcase_1784958542497.jpg',
         description: 'Upgraded content publishing workflows with intuitive block controls.'
       }
     ],
@@ -233,26 +233,26 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹10,000/month',
     shortDescription: 'Data-driven SEO strategies to boost your organic visibility and traffic.',
     fullDescription: 'Get found by the right audience. We employ advanced SEO techniques to improve your search engine rankings, drive qualified traffic, and ensure long-term organic growth.',
-    visualImage: '/src/assets/images/seo_analytics_dashboard_1784958746346.jpg',
+    visualImage: '/images/seo_analytics_dashboard_1784958746346.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'Organic Growth',
     studioGallery: [
       {
         title: 'Google #1 Keyword Ranking & Traffic Growth',
         category: 'Search Engine Growth',
-        image: '/src/assets/images/seo_analytics_dashboard_1784958746346.jpg',
+        image: '/images/seo_analytics_dashboard_1784958746346.jpg',
         description: 'Comprehensive keyword monitoring, backlink authority tracking, and organic impression spikes.'
       },
       {
         title: 'Core Web Vitals & Technical Speed Audit',
         category: 'Technical SEO',
-        image: '/src/assets/images/hero_digital_agency_1784956531972.jpg',
+        image: '/images/hero_digital_agency_1784956531972.jpg',
         description: 'Fixing crawl errors, schema structured data markup, canonical tags, and page speed.'
       },
       {
         title: 'Local Google Business Profile Ranking',
         category: 'Local SEO',
-        image: '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+        image: '/images/cms_website_dev_showcase_1784958542497.jpg',
         description: 'Map pack placement, customer review workflows, and localized keyword optimization.'
       }
     ],
@@ -283,14 +283,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹5,000',
     shortDescription: 'Comprehensive brand identities that resonate with your target audience.',
     fullDescription: 'We build brands that people remember. From logo design to brand voice development, we create a cohesive identity that effectively communicates your values and differentiates you from the competition.',
-    visualImage: '/src/assets/images/brand_identity_design_1784958760146.jpg',
+    visualImage: '/images/brand_identity_design_1784958760146.jpg',
     categoryGroup: 'branding-design',
     visualBadge: 'Personal & Corporate Branding',
     studioGallery: [
       {
         title: 'Bespoke Brand Style Guide & Typography System',
         category: 'Brand Identity',
-        image: '/src/assets/images/brand_identity_design_1784958760146.jpg',
+        image: '/images/brand_identity_design_1784958760146.jpg',
         description: 'Cohesive color palette, typography hierarchy, logo mark guidelines, and vector assets.'
       },
       {
@@ -302,7 +302,7 @@ export const servicesData: ServiceDetail[] = [
       {
         title: 'Corporate Stationery & Package Collateral',
         category: 'Print & Digital',
-        image: '/src/assets/images/branding_visual_1784956561733.jpg',
+        image: '/images/branding_visual_1784956561733.jpg',
         description: 'Letterheads, business cards, pitch decks, and physical product packaging designs.'
       }
     ],
@@ -406,26 +406,26 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹15,000',
     shortDescription: 'Affordable, fully CMS-driven online stores with unlimited products and easy-to-manage dashboards.',
     fullDescription: 'Launch your digital storefront with our affordable, high-converting ecommerce solutions. Built on leading platforms like Shopify, WooCommerce, and Webflow, our systems are complete CMS-driven, enabling you to add unlimited products, process transactions securely, and enjoy an easy-to-manage administrator backend with absolutely zero coding required.',
-    visualImage: '/src/assets/images/ecommerce_visual_1784956578620.jpg',
+    visualImage: '/images/ecommerce_visual_1784956578620.jpg',
     categoryGroup: 'web-cms',
     visualBadge: 'Online Store & CMS',
     studioGallery: [
       {
         title: 'CMS E-Commerce Storefront & Catalog',
         category: 'Shopify / WooCommerce',
-        image: '/src/assets/images/ecommerce_visual_1784956578620.jpg',
+        image: '/images/ecommerce_visual_1784956578620.jpg',
         description: 'Unlimited product grid, filter sidebar, fast cart Drawer, and multi-currency checkout.'
       },
       {
         title: 'Seamless Mobile Checkout & Payment Gateways',
         category: 'Mobile Storefront',
-        image: '/src/assets/images/responsive_web_design_mockup_1784958556263.jpg',
+        image: '/images/responsive_web_design_mockup_1784958556263.jpg',
         description: 'Razorpay, Stripe, UPI, Apple Pay, and PayPal integrations for instant frictionless conversion.'
       },
       {
         title: 'Easy Admin Dashboard & Order Manager',
         category: 'CMS Dashboard',
-        image: '/src/assets/images/cms_website_dev_showcase_1784958542497.jpg',
+        image: '/images/cms_website_dev_showcase_1784958542497.jpg',
         description: 'Inventory updates, discount code management, shipping status triggers, and revenue analytics.'
       }
     ],
@@ -504,20 +504,20 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹8,000/month',
     shortDescription: 'Targeted campaigns designed to grow your brand across social channels.',
     fullDescription: 'We help you reach your audience where they hang out. Our social media marketing strategies are calculated to increase your reach, engagement, and direct sales through targeted content and ads.',
-    visualImage: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+    visualImage: '/images/social_youtube_dashboard_1784958773445.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'Social Growth',
     studioGallery: [
       {
         title: 'Social Ad Campaign Strategy & Creatives',
         category: 'Paid Social Ads',
-        image: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+        image: '/images/social_youtube_dashboard_1784958773445.jpg',
         description: 'High-converting Meta, Instagram, and LinkedIn ad banners engineered for click-through rate.'
       },
       {
         title: 'Multi-Channel Content Calendar Scheduling',
         category: 'Growth Automation',
-        image: '/src/assets/images/youtube_smm_visual_1784956594511.jpg',
+        image: '/images/youtube_smm_visual_1784956594511.jpg',
         description: 'Automated post scheduling, hashtag research, and audience demographic targeting.'
       }
     ],
@@ -597,14 +597,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹8,000/month',
     shortDescription: 'Full-service management including content creation and community engagement.',
     fullDescription: 'Your social presence, handled. We manage your accounts daily, creating engaging content and building a vibrant community around your brand while you focus on running your business.',
-    visualImage: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+    visualImage: '/images/social_youtube_dashboard_1784958773445.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'Account Management',
     studioGallery: [
       {
         title: 'Social Account Growth Analytics & Engagement',
         category: 'Community Growth',
-        image: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+        image: '/images/social_youtube_dashboard_1784958773445.jpg',
         description: 'Tracking monthly follower retention, comment sentiment, and story views across Instagram & YouTube.'
       }
     ],
@@ -744,20 +744,20 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹10,000/month',
     shortDescription: 'Complete channel growth, optimized video SEO, custom design, and analytics support.',
     fullDescription: 'Expand your reach with professional YouTube management. From video optimization, metadata SEO, custom thumbnail designs to competitor insights and strategy, we ensure your channel stands out.',
-    visualImage: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+    visualImage: '/images/social_youtube_dashboard_1784958773445.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'YouTube Growth',
     studioGallery: [
       {
         title: 'High-CTR YouTube Thumbnail & Title SEO Suite',
         category: 'Thumbnail & SEO',
-        image: '/src/assets/images/social_youtube_dashboard_1784958773445.jpg',
+        image: '/images/social_youtube_dashboard_1784958773445.jpg',
         description: 'Vibrant custom thumbnails engineered for high click-through rates and YouTube search ranking.'
       },
       {
         title: 'Video Studio Editing & Sound Master Class',
         category: 'Video Editing',
-        image: '/src/assets/images/videography_gimbal_studio_1784958188066.jpg',
+        image: '/images/videography_gimbal_studio_1784958188066.jpg',
         description: 'Pacing, multi-cam cuts, dynamic subtitles, and motion graphics for maximum audience retention.'
       }
     ],
@@ -812,20 +812,20 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹5,000 – ₹30,000',
     shortDescription: 'Stunning visual storytelling including brand shoots and professional video creation.',
     fullDescription: 'Bring your brand story and products to life through high-definition photography and sleek, highly-engaging videography tailored specifically for social channels, ads, and web usage.',
-    visualImage: '/src/assets/images/studio_camera_lighting_1784958171859.jpg',
+    visualImage: '/images/studio_camera_lighting_1784958171859.jpg',
     categoryGroup: 'branding-design',
     visualBadge: 'Media & Video Studio',
     studioGallery: [
       {
         title: 'High-End Studio Camera & Lighting Rig',
         category: 'Studio Gear',
-        image: '/src/assets/images/studio_camera_lighting_1784958171859.jpg',
+        image: '/images/studio_camera_lighting_1784958171859.jpg',
         description: 'Professional softbox setup, continuous LED key lighting, 4K cinema sensor, and telephoto lenses.'
       },
       {
         title: 'Gimbal & Motion Video Production',
         category: 'Videography',
-        image: '/src/assets/images/videography_gimbal_studio_1784958188066.jpg',
+        image: '/images/videography_gimbal_studio_1784958188066.jpg',
         description: 'Cinematic motorized 3-axis stabilizer setup for ultra-smooth commercial ad shoots and reels.'
       },
       {
@@ -880,14 +880,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹10,000',
     shortDescription: 'Stunning, studio-grade product backdrops generated instantly using state-of-the-art AI.',
     fullDescription: 'Transform basic product shots into gorgeous lifestyle photos instantly. We leverage custom generative AI pipelines to place your items in premium studio environments, saving thousands in location costs.',
-    visualImage: '/src/assets/images/studio_camera_lighting_1784958171859.jpg',
+    visualImage: '/images/studio_camera_lighting_1784958171859.jpg',
     categoryGroup: 'ai-automation',
     visualBadge: 'AI Product Studio',
     studioGallery: [
       {
         title: 'Virtual Studio Backdrop Render',
         category: 'AI Backdrop',
-        image: '/src/assets/images/studio_camera_lighting_1784958171859.jpg',
+        image: '/images/studio_camera_lighting_1784958171859.jpg',
         description: 'Instant placement of e-commerce items into realistic studio lit setups.'
       },
       {
@@ -930,20 +930,20 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹500',
     shortDescription: 'Bespoke posters, social graphics, logos, and digital brand collaterals created from scratch.',
     fullDescription: 'Establish your visual dominance over your competition with high-end, custom graphic design. From crisp vector logos to highly specific marketing materials, posters, and pitch decks, we design beautiful assets that speak to your targets.',
-    visualImage: '/src/assets/images/brand_identity_design_1784958760146.jpg',
+    visualImage: '/images/brand_identity_design_1784958760146.jpg',
     categoryGroup: 'branding-design',
     visualBadge: 'Creative Design',
     studioGallery: [
       {
         title: 'Bespoke Vector Logo & Brand Collaterals',
         category: 'Vector Graphics',
-        image: '/src/assets/images/brand_identity_design_1784958760146.jpg',
+        image: '/images/brand_identity_design_1784958760146.jpg',
         description: 'Scalable vector icons, custom logo badges, business card prints, and marketing banners.'
       },
       {
         title: 'Social Ad & Banner Layout Templates',
         category: 'Ad Design',
-        image: '/src/assets/images/branding_visual_1784956561733.jpg',
+        image: '/images/branding_visual_1784956561733.jpg',
         description: 'Clean high-contrast social banners optimized for digital ad conversions.'
       }
     ],
@@ -1004,26 +1004,26 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹10,000/month',
     shortDescription: 'Grow your brand with strategic influencer marketing campaigns. We help businesses collaborate with trusted influencers across Instagram, YouTube, Facebook, and other platforms to increase brand awareness, engagement, leads, and sales.',
     fullDescription: 'Boost your brand with professional influencer marketing services tailored for growth in India and globally. From nano and micro-influencers to macro digital creators, MakeMyPages manages end-to-end influencer campaigns—including creator outreach, contract negotiation, creative direction, content publishing, and live ROI performance tracking. Connect seamlessly with digital marketing and social media marketing strategies to drive maximum engagement and conversions.',
-    visualImage: '/src/assets/images/influencer_creator_studio_1785948181073.jpg',
+    visualImage: '/images/influencer_creator_studio_1785948181073.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'Influencer Campaigns',
     studioGallery: [
       {
         title: 'Micro & Macro Creator Outreach',
         category: 'Influencer Research',
-        image: '/src/assets/images/influencer_creator_studio_1785948181073.jpg',
+        image: '/images/influencer_creator_studio_1785948181073.jpg',
         description: 'Vetted list of niche creators and digital influencers across Instagram Reels and YouTube Shorts with verified engagement metrics.'
       },
       {
         title: 'Product Promotion & Unboxing Campaigns',
         category: 'Content Collaboration',
-        image: '/src/assets/images/youtube_smm_visual_1784956594511.jpg',
+        image: '/images/youtube_smm_visual_1784956594511.jpg',
         description: 'High-converting unboxing videos, brand reviews, and story highlights driving direct referral traffic.'
       },
       {
         title: 'Campaign Analytics & Sales Attribution',
         category: 'ROI Tracking',
-        image: '/src/assets/images/seo_analytics_dashboard_1784958746346.jpg',
+        image: '/images/seo_analytics_dashboard_1784958746346.jpg',
         description: 'Real-time campaign tracking dashboards measuring click-through rates, promo code sales, and audience growth.'
       }
     ],
@@ -1105,14 +1105,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹8,000/month',
     shortDescription: 'Drive instant leads and sales with professionally managed Google Ads campaigns. We create, optimize, and manage Search, Display, Shopping, Performance Max, and YouTube Ads to maximize ROI.',
     fullDescription: 'Drive instant, high-intent leads and sales with Google Ads management services from MakeMyPages. We build, monitor, and optimize Search, Display, Shopping, Performance Max, and YouTube Ads campaigns to maximize advertising return on investment (ROI) and minimize cost-per-acquisition.',
-    visualImage: '/src/assets/images/google_ads_dashboard_1785948808522.jpg',
+    visualImage: '/images/google_ads_dashboard_1785948808522.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'PPC & Search Ads',
     studioGallery: [
       {
         title: 'High-Intent Search & Performance Max Campaigns',
         category: 'Google PPC Ads',
-        image: '/src/assets/images/google_ads_dashboard_1785948808522.jpg',
+        image: '/images/google_ads_dashboard_1785948808522.jpg',
         description: 'Targeted keyword bidding, negative keyword filtering, and automated conversion tracking for high ROI.'
       }
     ],
@@ -1192,14 +1192,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹8,000/month',
     shortDescription: 'Generate high-quality leads and increase sales through Facebook and Instagram advertising campaigns designed for your business goals.',
     fullDescription: 'Scale your revenue with highly targeted Facebook and Instagram advertising campaigns. MakeMyPages handles custom audience research, visual ad strategy, retargeting funnels, lead forms, and e-commerce catalog integrations to deliver consistent sales and qualified leads.',
-    visualImage: '/src/assets/images/meta_ads_dashboard_1785948827578.jpg',
+    visualImage: '/images/meta_ads_dashboard_1785948827578.jpg',
     categoryGroup: 'growth-marketing',
     visualBadge: 'FB & IG Social Ads',
     studioGallery: [
       {
         title: 'Targeted Lead & Sales Retargeting Campaigns',
         category: 'Meta Ads Manager',
-        image: '/src/assets/images/meta_ads_dashboard_1785948827578.jpg',
+        image: '/images/meta_ads_dashboard_1785948827578.jpg',
         description: 'Custom lookalike audiences, engaging video ad creative, and high-converting Meta lead forms.'
       }
     ],
@@ -1279,14 +1279,14 @@ export const servicesData: ServiceDetail[] = [
     startingPrice: 'Starting From ₹5,000/month',
     shortDescription: 'Improve your local search visibility with professional Google Business Profile optimization and ongoing management.',
     fullDescription: 'Dominate local search rankings and Google Maps searches in your region. MakeMyPages optimizes and actively manages your Google Business Profile (formerly Google My Business) with weekly promotional posts, review management, category enhancements, and local citation building to drive direct calls, directions, and website visits.',
-    visualImage: '/src/assets/images/google_business_profile_1785948845822.jpg',
+    visualImage: '/images/google_business_profile_1785948845822.jpg',
     categoryGroup: 'operations-tech',
     visualBadge: 'Local SEO & Maps',
     studioGallery: [
       {
         title: 'Google Maps 3-Pack Local Ranking Optimization',
         category: 'Local SEO',
-        image: '/src/assets/images/google_business_profile_1785948845822.jpg',
+        image: '/images/google_business_profile_1785948845822.jpg',
         description: 'Profile audit, NAP consistency, Google Posts, photo uploads, and active review monitoring.'
       }
     ],

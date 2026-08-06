@@ -24,7 +24,7 @@ const Hero = () => {
       {/* High-Tech Background Image Layer with Gradient Overlays */}
       <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
         <img 
-          src="/src/assets/images/tech_hero_bg_1785171907309.jpg" 
+          src="/images/tech_hero_bg_1785171907309.jpg" 
           alt="Digital Tech Network Background" 
           className="w-full h-full object-cover opacity-35 mix-blend-luminosity scale-105"
           referrerPolicy="no-referrer"
@@ -91,7 +91,7 @@ const Hero = () => {
 
                 {/* Real Visual Asset Image */}
                 <img 
-                  src="/src/assets/images/hero_digital_agency_1784956531972.jpg" 
+                  src="/images/hero_digital_agency_1784956531972.jpg" 
                   alt="MakeMyPages - Website Development, SEO & Commercial Photography Studio Agency India" 
                   className="w-full h-full object-cover pt-9 transition-transform duration-700 group-hover:scale-105"
                   fetchPriority="high"

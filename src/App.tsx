@@ -12,6 +12,7 @@ import AboutUs from './pages/AboutUs';
 import Admin from './pages/Admin';
 import ServiceDetail from './pages/ServiceDetail';
 import { motion, AnimatePresence } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
         </main>
         <Footer />
         <WhatsAppChatbot />
+        <Analytics />
       </div>
     </Router>
   );

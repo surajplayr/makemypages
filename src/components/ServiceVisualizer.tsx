@@ -259,7 +259,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
                   {/* Visual Content Frame */}
                   <div className="relative w-full h-[calc(100%-28px)] overflow-hidden group">
                     <img 
-                      src="/src/assets/images/cms_website_dev_showcase_1784958542497.jpg" 
+                      src="/images/cms_website_dev_showcase_1784958542497.jpg" 
                       alt="CMS Website Development Interface"
                       className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                       referrerPolicy="no-referrer"
@@ -302,7 +302,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
                 {/* Visual SEO Image Showcase */}
                 <div className="relative aspect-[16/9] w-full overflow-hidden bg-slate-950">
                   <img 
-                    src="/src/assets/images/seo_analytics_dashboard_1784958746346.jpg" 
+                    src="/images/seo_analytics_dashboard_1784958746346.jpg" 
                     alt="SEO Analytics & Keyword Dashboard" 
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"
@@ -379,7 +379,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
               {/* Brand Showcase Image Card */}
               <div className="relative aspect-[16/10] rounded-2xl overflow-hidden border border-brand-border shadow-md group bg-slate-950">
                 <img 
-                  src="/src/assets/images/brand_identity_design_1784958760146.jpg" 
+                  src="/images/brand_identity_design_1784958760146.jpg" 
                   alt="Brand Identity & Typography System" 
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -536,7 +536,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
               <div className="bg-slate-900 border border-slate-700 rounded-2xl overflow-hidden shadow-lg group relative">
                 <div className="relative aspect-[16/10] w-full overflow-hidden bg-slate-950">
                   <img 
-                    src="/src/assets/images/social_youtube_dashboard_1784958773445.jpg" 
+                    src="/images/social_youtube_dashboard_1784958773445.jpg" 
                     alt="Social Media & YouTube Analytics Dashboard"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"
@@ -597,7 +597,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
                 <div className="relative aspect-[16/10] w-full overflow-hidden bg-slate-950">
                   {/* High Quality Creator / Influencer Image */}
                   <img 
-                    src="/src/assets/images/influencer_creator_studio_1785948181073.jpg" 
+                    src="/images/influencer_creator_studio_1785948181073.jpg" 
                     alt="Influencer Content Creator Recording Campaign Video"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                     referrerPolicy="no-referrer"
@@ -622,7 +622,7 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
                       <div className="flex items-center gap-3">
                         <div className="w-9 h-9 rounded-full bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600 p-0.5 shadow-md flex-shrink-0">
                           <img 
-                            src="/src/assets/images/influencer_creator_studio_1785948181073.jpg" 
+                            src="/images/influencer_creator_studio_1785948181073.jpg" 
                             alt="Creator Avatar" 
                             className="w-full h-full object-cover rounded-full"
                             referrerPolicy="no-referrer"
@@ -856,9 +856,9 @@ export const ServiceVisualizer: React.FC<VisualizerProps> = ({ slug, title }) =>
                 <img 
                   src={
                     viewfinderFilter === 'studio' 
-                      ? '/src/assets/images/studio_camera_lighting_1784958171859.jpg' 
+                      ? '/images/studio_camera_lighting_1784958171859.jpg' 
                       : viewfinderFilter === 'outdoor'
-                        ? '/src/assets/images/videography_gimbal_studio_1784958188066.jpg'
+                        ? '/images/videography_gimbal_studio_1784958188066.jpg'
                         : 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80'
                   } 
                   alt="Media Production Studio"

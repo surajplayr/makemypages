@@ -8,7 +8,7 @@ const Footer = () => {
       {/* Tech Background Image Layer with Dark Gradients */}
       <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
         <img 
-          src="/src/assets/images/tech_hero_bg_1785171907309.jpg" 
+          src="/images/tech_hero_bg_1785171907309.jpg" 
           alt="MakeMyPages Digital Agency India Tech Background" 
           loading="lazy"
           decoding="async"

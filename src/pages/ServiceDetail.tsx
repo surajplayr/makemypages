@@ -35,39 +35,39 @@ import {
 const getHeroBgImage = (slug: string) => {
   switch (slug) {
     case 'website-development':
-      return '/src/assets/images/web_dev_workspace_1785949121199.jpg';
+      return '/images/web_dev_workspace_1785949121199.jpg';
     case 'website-redesign':
       return 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=1920&q=80';
     case 'seo-optimization':
-      return '/src/assets/images/seo_analytics_hero_1785949140799.jpg';
+      return '/images/seo_analytics_hero_1785949140799.jpg';
     case 'ecommerce-solutions':
-      return '/src/assets/images/ecommerce_visual_1784956578620.jpg';
+      return '/images/ecommerce_visual_1784956578620.jpg';
     case 'social-media-marketing':
     case 'social-media-management':
     case 'youtube-management-support':
-      return '/src/assets/images/social_youtube_dashboard_1784958773445.jpg';
+      return '/images/social_youtube_dashboard_1784958773445.jpg';
     case 'photography-videography':
-      return '/src/assets/images/studio_camera_lighting_1784958171859.jpg';
+      return '/images/studio_camera_lighting_1784958171859.jpg';
     case 'ai-product-photography':
-      return '/src/assets/images/studio_camera_lighting_1784958171859.jpg';
+      return '/images/studio_camera_lighting_1784958171859.jpg';
     case 'graphic-design':
-      return '/src/assets/images/brand_identity_design_1784958760146.jpg';
+      return '/images/brand_identity_design_1784958760146.jpg';
     case 'content-writing':
-      return '/src/assets/images/content_writing_hero_1785949155818.jpg';
+      return '/images/content_writing_hero_1785949155818.jpg';
     case 'influencer-marketing':
-      return '/src/assets/images/influencer_creator_studio_1785948181073.jpg';
+      return '/images/influencer_creator_studio_1785948181073.jpg';
     case 'google-ads-management':
-      return '/src/assets/images/google_ads_dashboard_1785948808522.jpg';
+      return '/images/google_ads_dashboard_1785948808522.jpg';
     case 'meta-ads-management':
-      return '/src/assets/images/meta_ads_dashboard_1785948827578.jpg';
+      return '/images/meta_ads_dashboard_1785948827578.jpg';
     case 'google-business-profile-management':
-      return '/src/assets/images/google_business_profile_1785948845822.jpg';
+      return '/images/google_business_profile_1785948845822.jpg';
     case 'legal-services':
       return 'https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1920&q=80';
     case 'hosting-maintenance':
       return 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1920&q=80';
     default:
-      return '/src/assets/images/web_dev_workspace_1785949121199.jpg';
+      return '/images/web_dev_workspace_1785949121199.jpg';
   }
 };
 import { useEffect, useState } from 'react';

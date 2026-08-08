@@ -13,6 +13,7 @@ import AboutUs from './pages/AboutUs';
 import Admin from './pages/Admin';
 import ServiceDetail from './pages/ServiceDetail';
 import { AnimatePresence } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 
 function ScrollToTop() {
   const { pathname, hash } = useLocation();
@@ -56,6 +57,7 @@ export default function App() {
         </main>
         <Footer />
         <WhatsAppChatbot />
+        <Analytics />
       </div>
     </Router>
   );
